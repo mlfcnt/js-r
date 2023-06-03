@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    overflow-y: scroll;
+}
+
+.list {
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+.list p {
+    margin: 10px;
+}
